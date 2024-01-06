@@ -1,4 +1,4 @@
-Gems & amp; Holiday Package Prediction
+Gems & Holiday Package Prediction
 
 Problem 1: Linear Regression
 
